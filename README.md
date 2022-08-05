@@ -4,14 +4,14 @@ this library management system project in Python Django focuses mainly on dealin
 
 -------------------------Available Features----------------------------------
 
-Student Panel
-Admin Panel
-Add Books
-List Books
-Issue Books
-Auto Fine Charge
-View Issued Books
-View Available Students
+Student Panel, 
+Admin Panel, 
+Add Books, 
+List Books, 
+Issue Books, 
+Auto Fine Charge, 
+View Issued Books, 
+View Available Students, 
 
 
 ------------------------------Admin Panel and Fines---------------------------------------
